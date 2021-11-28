@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/igorcolonna/Documentos/projetinhos/projetos_ros/devel -DCMAKE_INSTALL_PREFIX=/home/igorcolonna/Documentos/projetinhos/projetos_ros/install -G Unix Makefiles

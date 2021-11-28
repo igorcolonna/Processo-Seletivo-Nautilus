@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<launch>
+    <!-- Include transform.launch -->
+    <include file="$(find orbit)/launch/transform.launch"/>
+
+    <!-- Open Rviz -->
+    <node type="rviz" name="rviz" pkg="rviz" agrs="-d $(find rviz)/rviz/config_file.rviz"/>
+
+    
+
+</launch>

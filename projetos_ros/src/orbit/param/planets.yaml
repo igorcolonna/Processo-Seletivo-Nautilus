@@ -1,0 +1,6 @@
+planets: [
+  ['planet1', 1, 0.25],
+  ['planet2', 2, 0.5],
+  ['planet3', 3, 0.7],
+  ['planet4', 4, 1]
+]
